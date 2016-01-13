@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<rdf:RDF
+      xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+      xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+      xmlns:foaf="http://xmlns.com/foaf/0.1/"
+      xmlns:owl="http://www.w3.org/2002/07/owl#">
+  
+<!--
+    LAST UPDATED  : 2014-08-25
+-->
+  
+  <foaf:PersonalProfileDocument rdf:about="https://sean.petiya.com/foaf.rdf">
+    <foaf:primaryTopic rdf:resource="#me"/>
+  </foaf:PersonalProfileDocument>
+  
+  <foaf:Person rdf:ID="me">
+    
+    <foaf:name>Sean Petiya</foaf:name>
+    <owl:sameAs rdf:resource="http://orcid.org/0000-0001-5704-1346"></owl:sameAs>
+    <foaf:homepage rdf:resource="https://sean.petiya.com"/>
+    <foaf:skypeID>sean.petiya</foaf:skypeID>
+    <foaf:mbox_sha1sum>ce6428a2c1f7eb8d7c9b6d738ac1d68dd55d05b3</foaf:mbox_sha1sum>
+
+    <!-- PROJECTS -->
+    
+    <foaf:currentProject>
+      <foaf:Project>
+        <foaf:homepage rdf:resource="http://comicmeta.org/cbo"></foaf:homepage>
+      </foaf:Project>
+    </foaf:currentProject>
+
+    <foaf:currentProject>
+      <foaf:Project>
+        <foaf:homepage rdf:resource="http://comicmeta.org"></foaf:homepage>
+      </foaf:Project>
+    </foaf:currentProject>
+    
+  </foaf:Person>
+</rdf:RDF>
