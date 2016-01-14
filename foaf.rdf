@@ -6,7 +6,7 @@
       xmlns:owl="http://www.w3.org/2002/07/owl#">
   
 <!--
-    LAST UPDATED  : 2014-08-25
+    LAST UPDATED  : 2016-01-13
 -->
   
   <foaf:PersonalProfileDocument rdf:about="https://sean.petiya.com/foaf.rdf">
@@ -17,6 +17,7 @@
     
     <foaf:name>Sean Petiya</foaf:name>
     <owl:sameAs rdf:resource="http://orcid.org/0000-0001-5704-1346"></owl:sameAs>
+    <owl:sameAs rdf:resource="http://plus.google.com/+SeanPetiya"></owl:sameAs>
     <foaf:homepage rdf:resource="https://sean.petiya.com"/>
     <foaf:skypeID>sean.petiya</foaf:skypeID>
     <foaf:mbox_sha1sum>ce6428a2c1f7eb8d7c9b6d738ac1d68dd55d05b3</foaf:mbox_sha1sum>
