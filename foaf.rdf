@@ -35,7 +35,7 @@
     </foaf:currentProject>
 
     <foaf:currentProject>
-      <foaf:Project rdf:about="http://comicmeta.org/cbo">
+      <foaf:Project rdf:about="http://comicmeta.org">
         <foaf:homepage rdf:resource="http://comicmeta.org"></foaf:homepage>
       </foaf:Project>
     </foaf:currentProject>
