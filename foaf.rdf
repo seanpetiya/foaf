@@ -1,9 +1,10 @@
 ﻿<?xml version="1.0" encoding="utf-8" ?>
 <rdf:RDF
-      xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-      xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+      xmlns:dc="http://purl.org/dc/elements/1.1/"
       xmlns:foaf="http://xmlns.com/foaf/0.1/"
-      xmlns:owl="http://www.w3.org/2002/07/owl#">
+      xmlns:owl="http://www.w3.org/2002/07/owl#"
+      xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+      xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
   
 <!--
     LAST UPDATED  : 2016-01-14
@@ -30,12 +31,14 @@
     
     <foaf:currentProject>
       <foaf:Project rdf:about="http://comicmeta.org/cbo">
+        <dc:title>Comic Book Ontology</dc:title>
         <foaf:homepage rdf:resource="http://comicmeta.org/cbo"></foaf:homepage>
       </foaf:Project>
     </foaf:currentProject>
 
     <foaf:currentProject>
       <foaf:Project rdf:about="http://comicmeta.org">
+        <dc:title>comicmeta.org</dc:title>
         <foaf:homepage rdf:resource="http://comicmeta.org"></foaf:homepage>
       </foaf:Project>
     </foaf:currentProject>
