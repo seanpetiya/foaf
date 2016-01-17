@@ -28,24 +28,27 @@
     <owl:sameAs rdf:resource="http://www.researcherid.com/rid/J-6069-2014"></owl:sameAs>
     
     <!-- PROJECTS -->
-    
-    <foaf:currentProject>
-      <foaf:Project rdf:about="http://comicmeta.org/cbo">
-        <dc:title>Comic Book Ontology</dc:title>
-        <foaf:homepage rdf:resource="http://comicmeta.org/cbo"></foaf:homepage>
-      </foaf:Project>
-    </foaf:currentProject>
 
     <foaf:currentProject>
       <foaf:Project rdf:about="http://comicmeta.org">
         <dc:title>comicmeta.org</dc:title>
+        <dc:description>Metadata for comic books and comic book collections.</dc:description>
         <foaf:homepage rdf:resource="http://comicmeta.org"></foaf:homepage>
+      </foaf:Project>
+    </foaf:currentProject>
+
+    <foaf:currentProject>
+      <foaf:Project rdf:about="http://comicmeta.org/cbo">
+        <dc:title>Comic Book Ontology</dc:title>
+        <dc:description>A metadata vocabulary for describing comic books and comic book collections.</dc:description>
+        <foaf:homepage rdf:resource="http://comicmeta.org/cbo"></foaf:homepage>
       </foaf:Project>
     </foaf:currentProject>
 
     <foaf:pastProject>
       <foaf:Project rdf:about="http://lod-lam.slis.kent.edu/">
         <dc:title>LOD-LAM Research Group at KSU SLIS</dc:title>
+        <dc:description>A research team at the School of Library and Information Science at the Kent State University connecting libraries to the unfamiliar data and metadata resources in the Linked Open Data (LOD) Universe.</dc:description>
         <foaf:homepage rdf:resource="http://lod-lam.slis.kent.edu/"></foaf:homepage>
       </foaf:Project>
     </foaf:pastProject>
