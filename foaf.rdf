@@ -7,14 +7,14 @@
       xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
   
 <!--
-    LAST UPDATED  : 2016-01-17
+    LAST UPDATED  : 2016-01-18
 -->
   
   <foaf:PersonalProfileDocument rdf:about="https://sean.petiya.com/foaf.rdf">
-    <foaf:primaryTopic rdf:resource="#me"/>
+    <foaf:primaryTopic rdf:resource="http://sean.petiya.com/#me"/>
   </foaf:PersonalProfileDocument>
   
-  <foaf:Person rdf:ID="me">
+  <foaf:Person rdf:about="http://sean.petiya.com/#me">
 
     <foaf:name>Sean Petiya</foaf:name>
     <foaf:homepage rdf:resource="https://sean.petiya.com"/>
