@@ -20,7 +20,8 @@
     <foaf:homepage rdf:resource="http://sean.petiya.com"/>
     <foaf:skypeID>sean.petiya</foaf:skypeID>
     <foaf:mbox_sha1sum>ce6428a2c1f7eb8d7c9b6d738ac1d68dd55d05b3</foaf:mbox_sha1sum>
-
+    <rdfs:seeAlso rdf:resource="http://sean.petiya.tel"></rdfs:seeAlso>
+    
     <!-- SAMEAS -->
 
     <owl:sameAs rdf:resource="http://sean.petiya.com"></owl:sameAs>
@@ -43,6 +44,7 @@
         <dc:title>Comic Book Ontology</dc:title>
         <dc:description>A metadata vocabulary for describing comic books and comic book collections.</dc:description>
         <foaf:homepage rdf:resource="http://comicmeta.org/cbo"></foaf:homepage>
+        <rdfs:seeAlso rdf:resource="http://lov.okfn.org/dataset/lov/vocabs/cbo"></rdfs:seeAlso>
       </foaf:Project>
     </foaf:currentProject>
 
