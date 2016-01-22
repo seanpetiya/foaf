@@ -12,6 +12,7 @@
   
   <foaf:PersonalProfileDocument rdf:about="https://sean.petiya.com/foaf.rdf">
     <foaf:primaryTopic rdf:resource="http://sean.petiya.com/#me"/>
+    <rdfs:seeAlso rdf:resource="http://sean.petiya.tel"></rdfs:seeAlso>
   </foaf:PersonalProfileDocument>
   
   <foaf:Person rdf:about="http://sean.petiya.com/#me">
@@ -20,11 +21,11 @@
     <foaf:homepage rdf:resource="http://sean.petiya.com"/>
     <foaf:skypeID>sean.petiya</foaf:skypeID>
     <foaf:mbox_sha1sum>ce6428a2c1f7eb8d7c9b6d738ac1d68dd55d05b3</foaf:mbox_sha1sum>
-    <rdfs:seeAlso rdf:resource="http://sean.petiya.tel"></rdfs:seeAlso>
     
     <!-- SAMEAS -->
 
     <owl:sameAs rdf:resource="http://sean.petiya.com"></owl:sameAs>
+    <owl:sameAs rdf:resource="http://sean.petiya.tel"></owl:sameAs>
     <owl:sameAs rdf:resource="http://plus.google.com/+SeanPetiya"></owl:sameAs>
     <owl:sameAs rdf:resource="http://orcid.org/0000-0001-5704-1346"></owl:sameAs>
     <owl:sameAs rdf:resource="http://www.researcherid.com/rid/J-6069-2014"></owl:sameAs>
