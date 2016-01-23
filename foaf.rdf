@@ -8,9 +8,9 @@
       xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
   
   <foaf:PersonalProfileDocument rdf:about="https://sean.petiya.com/foaf.rdf">
-    <foaf:primaryTopic rdf:resource="http://sean.petiya.com/#me"/>
     <dc:title>FOAF: Sean Petiya</dc:title>
     <dcterms:modified>2016-01-21</dcterms:modified>
+    <foaf:primaryTopic rdf:resource="http://sean.petiya.com/#me"/>
     <rdfs:seeAlso rdf:resource="http://sean.petiya.tel"></rdfs:seeAlso>
 </foaf:PersonalProfileDocument>
   
@@ -45,6 +45,14 @@
         <dc:description>A metadata vocabulary for describing comic books and comic book collections.</dc:description>
         <foaf:homepage rdf:resource="http://comicmeta.org/cbo"></foaf:homepage>
         <rdfs:seeAlso rdf:resource="http://lov.okfn.org/dataset/lov/vocabs/cbo"></rdfs:seeAlso>
+      </foaf:Project>
+    </foaf:currentProject>
+
+    <foaf:currentProject>
+      <foaf:Project rdf:about="https://github.com/comicmeta/ComicBookSchema">
+        <dc:title>Comic Book Schema</dc:title>
+        <dc:description>An XML schema for implementing the Comic Book Ontology metadata vocabulary.</dc:description>
+        <foaf:homepage rdf:resource="http://comicmeta.org/cbo"></foaf:homepage>
       </foaf:Project>
     </foaf:currentProject>
 
