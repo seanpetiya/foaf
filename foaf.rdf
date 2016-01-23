@@ -9,7 +9,7 @@
   
   <foaf:PersonalProfileDocument rdf:about="https://sean.petiya.com/foaf.rdf">
     <dc:title>FOAF: Sean Petiya</dc:title>
-    <dcterms:modified>2016-01-21</dcterms:modified>
+    <dcterms:modified>2016-01-23</dcterms:modified>
     <foaf:primaryTopic rdf:resource="http://sean.petiya.com/#me"/>
     <rdfs:seeAlso rdf:resource="http://sean.petiya.tel"></rdfs:seeAlso>
 </foaf:PersonalProfileDocument>
@@ -29,6 +29,16 @@
     <owl:sameAs rdf:resource="http://researcherid.com/rid/J-6069-2014"></owl:sameAs>
     <owl:sameAs rdf:resource="http://sean.petiya.com"></owl:sameAs>
     <owl:sameAs rdf:resource="http://sean.petiya.tel"></owl:sameAs>
+    
+    <!-- ACCOUNTS -->
+
+    <foaf:holdsAccount>
+      <foaf:OnlineAccount>
+        <foaf:accountServiceHomePage rdf:resource="http://twitter.com"></foaf:accountServiceHomePage>
+        <foaf:accountProfilePage rdf:resource="http://twitter.com/SeanPetiya"></foaf:accountProfilePage>
+        <foaf:accountName>@seanpetiya</foaf:accountName>
+      </foaf:OnlineAccount>
+    </foaf:holdsAccount>
 
     <!-- PROJECTS -->
 
