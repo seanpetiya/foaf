@@ -27,15 +27,11 @@
     <owl:sameAs rdf:resource="http://orcid.org/0000-0001-5704-1346"></owl:sameAs>
     <owl:sameAs rdf:resource="http://plus.google.com/+SeanPetiya"></owl:sameAs>
     <owl:sameAs rdf:resource="http://researcherid.com/rid/J-6069-2014"></owl:sameAs>
-    <owl:sameAs rdf:resource="http://sean.petiya.com"></owl:sameAs>
-    <owl:sameAs rdf:resource="http://sean.petiya.tel"></owl:sameAs>
-    <owl:sameAs rdf:resource="http://twitter.com/SeanPetiya"></owl:sameAs>
-    <owl:sameAs rdf:resource="http://www.linkedin.com/in/seanpetiya"></owl:sameAs>
     
     <!-- ACCOUNTS -->
 
     <foaf:holdsAccount>
-      <foaf:OnlineAccount>
+      <foaf:OnlineAccount rdf:about="http://twitter.com/SeanPetiya">
         <foaf:accountServiceHomePage rdf:resource="http://twitter.com"></foaf:accountServiceHomePage>
         <foaf:accountProfilePage rdf:resource="http://twitter.com/SeanPetiya"></foaf:accountProfilePage>
         <foaf:accountName>@seanpetiya</foaf:accountName>
@@ -43,7 +39,7 @@
     </foaf:holdsAccount>
 
     <foaf:holdsAccount>
-      <foaf:OnlineAccount>
+      <foaf:OnlineAccount rdf:about="http://www.linkedin.com/in/seanpetiya">
         <foaf:accountServiceHomePage rdf:resource="http://linkedin.com"></foaf:accountServiceHomePage>
         <foaf:accountProfilePage rdf:resource="http://www.linkedin.com/in/seanpetiya"></foaf:accountProfilePage>
       </foaf:OnlineAccount>
@@ -69,7 +65,7 @@
     </foaf:currentProject>
 
     <foaf:currentProject>
-      <foaf:Project rdf:about="https://github.com/comicmeta/ComicBookSchema">
+      <foaf:Project rdf:about="http://github.com/comicmeta/ComicBookSchema">
         <dc:title>Comic Book Schema</dc:title>
         <dc:description>An XML schema for implementing the Comic Book Ontology metadata vocabulary.</dc:description>
         <foaf:homepage rdf:resource="http://comicmeta.org/cbo"></foaf:homepage>
