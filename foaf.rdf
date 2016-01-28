@@ -32,6 +32,7 @@
 
     <foaf:holdsAccount>
       <foaf:OnlineAccount rdf:about="http://twitter.com/SeanPetiya">
+        <foaf:name>Twitter</foaf:name>
         <foaf:accountServiceHomePage rdf:resource="http://twitter.com"></foaf:accountServiceHomePage>
         <foaf:accountProfilePage rdf:resource="http://twitter.com/SeanPetiya"></foaf:accountProfilePage>
         <foaf:accountName>@seanpetiya</foaf:accountName>
@@ -40,6 +41,7 @@
 
     <foaf:holdsAccount>
       <foaf:OnlineAccount rdf:about="http://www.linkedin.com/in/seanpetiya">
+        <foaf:name>LinkedIn</foaf:name>
         <foaf:accountServiceHomePage rdf:resource="http://linkedin.com"></foaf:accountServiceHomePage>
         <foaf:accountProfilePage rdf:resource="http://www.linkedin.com/in/seanpetiya"></foaf:accountProfilePage>
       </foaf:OnlineAccount>
