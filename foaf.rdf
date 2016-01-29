@@ -11,7 +11,7 @@
   
   <foaf:PersonalProfileDocument rdf:about="https://sean.petiya.com/foaf.rdf">
     <dc:title>FOAF: Sean Petiya</dc:title>
-    <dcterms:modified>2016-01-23</dcterms:modified>
+    <dcterms:modified>2016-01-28</dcterms:modified>
     <foaf:primaryTopic rdf:resource="http://sean.petiya.com/#me"/>
     <rdfs:seeAlso rdf:resource="http://sean.petiya.tel"></rdfs:seeAlso>
 </foaf:PersonalProfileDocument>
