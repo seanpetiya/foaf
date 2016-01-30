@@ -12,7 +12,7 @@
   
   <foaf:PersonalProfileDocument rdf:about="https://sean.petiya.com/foaf.rdf">
     <dc:title>FOAF: Sean Petiya</dc:title>
-    <dcterms:modified>2016-01-28</dcterms:modified>
+    <dcterms:modified>2016-01-30</dcterms:modified>
     <foaf:primaryTopic rdf:resource="http://sean.petiya.com/#me"/>
     <rdfs:seeAlso rdf:resource="http://sean.petiya.tel"></rdfs:seeAlso>
 </foaf:PersonalProfileDocument>
@@ -57,13 +57,13 @@
         <foaf:accountProfilePage rdf:resource="http://delicious.com/seanpetiya"></foaf:accountProfilePage>
         <rdfs:seeAlso>
           <rss:channel rdf:about="http://feeds.delicious.com/v2/rss/seanpetiya">
-            <dc:title>Bookmark Feed (RSS)</dc:title>
+            <dc:title>Delicious Bookmark Feed (RSS)</dc:title>
             <dcterms:format rdf:resource="http://www.iana.org/assignments/media-types/text/xml"></dcterms:format>
           </rss:channel>
         </rdfs:seeAlso>
         <rdfs:seeAlso>
           <rss:channel rdf:about="http://feeds.delicious.com/v2/json/seanpetiya">
-            <dc:title>Bookmark Feed (JSON)</dc:title>
+            <dc:title>Delicious Bookmark Feed (JSON)</dc:title>
             <dcterms:format rdf:resource="http://www.iana.org/assignments/media-types/application/json"></dcterms:format>
           </rss:channel>
         </rdfs:seeAlso>
