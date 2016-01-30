@@ -56,6 +56,9 @@
         <dc:title>comicmeta.org</dc:title>
         <dc:description>Metadata for comic books and comic book collections.</dc:description>
         <foaf:homepage rdf:resource="http://comicmeta.org"></foaf:homepage>
+        <doap:repository>
+          <doap:GitRepository rdf:about="http://github.com/comicmeta/ComicBookSchema"></doap:GitRepository>
+        </doap:repository>
       </foaf:Project>
     </foaf:currentProject>
 
@@ -64,6 +67,9 @@
         <dc:title>Comic Book Ontology</dc:title>
         <dc:description>A metadata vocabulary for describing comic books and comic book collections.</dc:description>
         <foaf:homepage rdf:resource="http://comicmeta.org/cbo"></foaf:homepage>
+        <doap:repository>
+          <doap:GitRepository rdf:about="http://github.com/comicmeta/ComicBookOntology"></doap:GitRepository>
+        </doap:repository>
         <rdfs:seeAlso rdf:resource="http://lov.okfn.org/dataset/lov/vocabs/cbo"></rdfs:seeAlso>
       </foaf:Project>
     </foaf:currentProject>
