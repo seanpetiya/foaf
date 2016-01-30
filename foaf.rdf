@@ -49,6 +49,14 @@
       </foaf:OnlineAccount>
     </foaf:holdsAccount>
 
+    <foaf:holdsAccount>
+      <foaf:OnlineAccount rdf:about="http://delicious.com/seanpetiya">
+        <foaf:name>Delicious</foaf:name>
+        <foaf:accountServiceHomePage rdf:resource="http://delicious.com"></foaf:accountServiceHomePage>
+        <foaf:accountProfilePage rdf:resource="http://delicious.com/seanpetiya"></foaf:accountProfilePage>
+      </foaf:OnlineAccount>
+    </foaf:holdsAccount>
+
     <!-- PROJECTS -->
 
     <foaf:currentProject>
