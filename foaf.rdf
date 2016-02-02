@@ -12,7 +12,7 @@
   
   <foaf:PersonalProfileDocument rdf:about="https://sean.petiya.com/foaf.rdf">
     <dc:title>FOAF: Sean Petiya</dc:title>
-    <dcterms:modified>2016-01-30</dcterms:modified>
+    <dcterms:modified>2016-02-01</dcterms:modified>
     <foaf:primaryTopic rdf:resource="http://sean.petiya.com/#me"/>
     <rdfs:seeAlso rdf:resource="http://sean.petiya.tel"></rdfs:seeAlso>
 </foaf:PersonalProfileDocument>
@@ -22,6 +22,7 @@
     <foaf:name>Sean Petiya</foaf:name>
     <foaf:homepage rdf:resource="http://sean.petiya.com"/>
     <foaf:skypeID>sean.petiya</foaf:skypeID>
+    <foaf:img rdf:resource="http://2.gravatar.com/avatar/c96262bf99a02f2d5825e53d0c56f2fa"></foaf:img>
     <foaf:mbox_sha1sum>ce6428a2c1f7eb8d7c9b6d738ac1d68dd55d05b3</foaf:mbox_sha1sum>
     
     <!-- SAMEAS -->
