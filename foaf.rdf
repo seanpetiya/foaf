@@ -11,8 +11,8 @@
       xmlns:schema="http://schema.org/">
   
   <foaf:PersonalProfileDocument rdf:about="https://sean.petiya.com/foaf.rdf">
-    <dc:title>FOAF: Sean Petiya</dc:title>
-    <dcterms:modified>2016-02-01</dcterms:modified>
+    <dc:title>Sean Petiya | FOAF</dc:title>
+    <dcterms:modified>2016-02-02</dcterms:modified>
     <foaf:primaryTopic rdf:resource="http://sean.petiya.com/#me"/>
     <rdfs:seeAlso rdf:resource="http://sean.petiya.tel"></rdfs:seeAlso>
 </foaf:PersonalProfileDocument>
@@ -34,24 +34,24 @@
     
     <!-- ACCOUNTS -->
 
-    <foaf:holdsAccount>
+    <foaf:account>
       <foaf:OnlineAccount rdf:about="http://twitter.com/SeanPetiya">
         <foaf:name>Twitter</foaf:name>
         <foaf:accountServiceHomePage rdf:resource="http://twitter.com"></foaf:accountServiceHomePage>
         <foaf:accountProfilePage rdf:resource="http://twitter.com/SeanPetiya"></foaf:accountProfilePage>
         <foaf:accountName>@seanpetiya</foaf:accountName>
       </foaf:OnlineAccount>
-    </foaf:holdsAccount>
+    </foaf:account>
 
-    <foaf:holdsAccount>
+    <foaf:account>
       <foaf:OnlineAccount rdf:about="http://www.linkedin.com/in/seanpetiya">
         <foaf:name>LinkedIn</foaf:name>
         <foaf:accountServiceHomePage rdf:resource="http://linkedin.com"></foaf:accountServiceHomePage>
         <foaf:accountProfilePage rdf:resource="http://www.linkedin.com/in/seanpetiya"></foaf:accountProfilePage>
       </foaf:OnlineAccount>
-    </foaf:holdsAccount>
+    </foaf:account>
 
-    <foaf:holdsAccount>
+    <foaf:account>
       <foaf:OnlineAccount rdf:about="http://delicious.com/seanpetiya">
         <foaf:name>Delicious</foaf:name>
         <foaf:accountServiceHomePage rdf:resource="http://delicious.com"></foaf:accountServiceHomePage>
@@ -69,7 +69,7 @@
           </rss:channel>
         </rdfs:seeAlso>
       </foaf:OnlineAccount>
-    </foaf:holdsAccount>
+    </foaf:account>
 
     <!-- PROJECTS -->
 
