@@ -52,6 +52,20 @@
     </foaf:account>
 
     <foaf:account>
+      <foaf:OnlineAccount rdf:about="http://github.com/SeanPetiya">
+        <foaf:name>GitHub</foaf:name>
+        <foaf:accountServiceHomePage rdf:resource="http://github.com"></foaf:accountServiceHomePage>
+        <foaf:accountProfilePage rdf:resource="http://github.com/seanpetiya"></foaf:accountProfilePage>
+        <rdfs:seeAlso>
+          <rss:channel rdf:about="http://github.com/seanpetiya.atom">
+            <dc:title>GitHub Public Activity Feed (RSS)</dc:title>
+            <dcterms:format rdf:resource="http://www.iana.org/assignments/media-types/application/atom+xml"></dcterms:format>
+          </rss:channel>
+        </rdfs:seeAlso>
+      </foaf:OnlineAccount>
+    </foaf:account>
+
+    <foaf:account>
       <foaf:OnlineAccount rdf:about="http://delicious.com/seanpetiya">
         <foaf:name>Delicious</foaf:name>
         <foaf:accountServiceHomePage rdf:resource="http://delicious.com"></foaf:accountServiceHomePage>
