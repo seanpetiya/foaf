@@ -129,10 +129,29 @@
     <!-- KNOWS -->
 
     <foaf:knows>
+      <foaf:Person rdf:about="http://lod-lam.slis.kent.edu/people.html#KarenGracy">
+        <foaf:name>Karen Gracy</foaf:name>
+        <foaf:title>Dr.</foaf:title>
+        <foaf:image rdf:resource="http://lod-lam.slis.kent.edu/images/graceykaren_1.jpg"></foaf:image>
+        <foaf:homepage rdf:resource="http://faculty-l.slis.kent.edu/~kgracy/Index.html"></foaf:homepage>
+      </foaf:Person>
+    </foaf:knows>
+
+    <foaf:knows>
       <foaf:Person rdf:about="http://marciazeng.slis.kent.edu/MarciaZeng.rdf#me">
-        <foaf:name>Marcia Lei Zeng</foaf:name>
+        <foaf:name xml:lang="en">Marcia Lei Zeng</foaf:name>
         <foaf:title>Dr.</foaf:title>
         <foaf:homepage rdf:resource="http://marciazeng.slis.kent.edu/"/>
+        <foaf:image rdf:resource="http://lod-lam.slis.kent.edu/images/DrZeng.jpg"></foaf:image>
+      </foaf:Person>
+    </foaf:knows>
+
+    <foaf:knows>
+      <foaf:Person rdf:about="http://lod-lam.slis.kent.edu/foaf/foaf-lz.rdf#me">
+        <foaf:name xml:lang="en">Ziran Zhang</foaf:name>
+        <foaf:name xml:lang="zh">张自然</foaf:name>
+        <foaf:alternateName>Ziran Zhang 张自然</foaf:alternateName>
+        <foaf:image rdf:resource="http://lod-lam.slis.kent.edu/images/self.jpg"></foaf:image>
       </foaf:Person>
     </foaf:knows>
     
